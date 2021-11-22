@@ -97,6 +97,7 @@ def slq():
     else:
         print('Halat Krd ...')
         time.sleep(3)
+        qamar.system('clear')
         slq()
 slq()
 
